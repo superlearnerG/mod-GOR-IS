@@ -1,0 +1,4 @@
+# ninja log v7
+0	8513	1776418674415510189	/home/kunxinguang/Sourcecode/3D-Seg/GROUPING/siga26/GOR-IS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	6f6ef650919f4b48
+0	10315	1776418674415510189	/home/kunxinguang/Sourcecode/3D-Seg/GROUPING/siga26/GOR-IS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	fe7c75cc3ac92a5c
+1	32672	1776418674416510197	/home/kunxinguang/Sourcecode/3D-Seg/GROUPING/siga26/GOR-IS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	f70182c8d5f82a6e
